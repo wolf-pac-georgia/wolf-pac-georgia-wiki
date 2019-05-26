@@ -1,4 +1,4 @@
-# It works! ;-)
+# Page Heading
 
 
 ## Section 1
