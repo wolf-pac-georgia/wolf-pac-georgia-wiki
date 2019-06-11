@@ -40,6 +40,7 @@
   * [What does it say, what does it mean?](pages/article_v/history/article_v_explainer.md)
   * [How has Article V been used to amend the Constitution?](pages/article_v/history/article_v_history.md)
   ----
+  * The Path
   * [The Path to a Convention](pages/article_v/path_to_a_convention.md)
   ----
   * The Logistics of a Convention
