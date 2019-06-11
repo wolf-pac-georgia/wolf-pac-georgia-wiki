@@ -32,7 +32,7 @@
   * [Bullet Points](https://docs.google.com/document/d/1LnTEeJ4TwiMvRh9R8QlFABL9h7hxzBTF9BtQrNJJ-I8/edit?usp=sharing)
   ----
   * External Resources
-  * [Right on the Money](https://rightonmoney.tumblr.com)
+  * [Quotes supporting campaign finance reform (published by Issue One)](https://rightonmoney.tumblr.com)
   
 [Article V Details and Legal Theory]()
 
