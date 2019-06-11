@@ -36,7 +36,7 @@
   
 [Article V Details and Legal Theory]()
 
-  * [The Path to a Convention](pages/article_v/path_to_a_convention.md)
+  <!--* [The Path to a Convention](pages/article_v/path_to_a_convention.md)-->
   ----
   * Article V and Its History
   * [What does it say, what does it mean?](pages/article_v/history/article_v_explainer.md)
