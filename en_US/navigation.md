@@ -54,13 +54,12 @@
   
 [Georgia General Assembly]()
 
-  * House of Representatives
-  * [Important members](pages/general_assembly/house/important_members.md)
-  * [Rules and procedures](pages/general_assembly/house/rules_and_procedures.md)
-  ----
   * [The legislative process](pages/general_assembly/legislative_process.md)
   * [Things to be aware of when lobbying](pages/general_assembly/rules_for_lobbying.md)
   * [Important offices at the Capitol](pages/general_assembly/important_offices.md)
+  * House of Representatives
+  * [Important members](pages/general_assembly/house/important_members.md)
+  * [Rules and procedures](pages/general_assembly/house/rules_and_procedures.md)
   ----
   * Senate
   * [Important members](pages/general_assembly/senate/important_members.md)
