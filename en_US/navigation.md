@@ -34,4 +34,18 @@
   * External Resources
   * [Right on the Money](https://rightonmoney.tumblr.com)
   
-[Article V]()
+[Article V Details and Legal Theory]()
+
+  * Article V and Its History
+  * [What does it say, what does it mean?](pages/article_v/history/article_v_explainer.md)
+  * [How has Article V been used to amend the Constitution?](pages/article_v/history/article_v_history.md)
+  ----
+  * [The Path to a Convention](pages/article_v/path_to_a_convention.md)
+  ----
+  * The Logistics of a Convention
+  * [How would convention delegates be chosen?](pages/article_v/choosing_delegates.md)
+  * [How would the convention establish its rules?](pages/article_v/establishing_rules.md)
+  ----
+  * The "Runaway Convention"
+  * [What is it?](pages/article_v/runaway_convention/what_is_it.md)
+  * [How do we know it's not a threat?](pages/article_v/runaway_convention/not_a_threat.md)
