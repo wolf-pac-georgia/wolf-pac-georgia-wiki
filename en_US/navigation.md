@@ -27,9 +27,9 @@
   
 [Volunteer Tools]()
 
-  * # Wolf-PAC's Tools
+  * Wolf-PAC's Tools
   * [Volunteer Toolbox](https://drive.google.com/open?id=1LnTEeJ4TwiMvRh9R8QlFABL9h7hxzBTF9BtQrNJJ-I8)
   * [Bullet Points](https://docs.google.com/document/d/1LnTEeJ4TwiMvRh9R8QlFABL9h7hxzBTF9BtQrNJJ-I8/edit?usp=sharing)
   ----
-  * # External Resources
+  * External Resources
   * [Right on the Money](https://rightonmoney.tumblr.com)
