@@ -37,6 +37,8 @@
 [Article V Details and Legal Theory]()
 
   * Article V and Its History
+  * [What does it say, what does it mean?](pages/article_v/history/article_v_explainer.md)
+  * [How has Article V been used to amend the Constitution?](pages/article_v/history/article_v_history.md)
   - - - -
   * The Logistics of a Convention
   * [How would convention delegates be chosen?](pages/article_v/choosing_delegates.md)
@@ -53,8 +55,8 @@
 [Georgia General Assembly]()
 
   * [The legislative process](pages/general_assembly/legislative_process.md)
-  * [Things to be aware of when lobbying](pages/general_assembly/rules_for_lobbying.md)
-  * [Important offices at the Capitol](pages/general_assembly/important_offices.md)
+  <!--* [Things to be aware of when lobbying](pages/general_assembly/rules_for_lobbying.md)
+  * [Important offices at the Capitol](pages/general_assembly/important_offices.md)-->
   * House of Representatives
   * [Important members](pages/general_assembly/house/important_members.md)
   * [Rules and procedures](pages/general_assembly/house/rules_and_procedures.md)
