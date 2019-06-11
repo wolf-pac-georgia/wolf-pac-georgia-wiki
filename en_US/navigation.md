@@ -23,8 +23,11 @@
   * [Who We Are](pages/about_us/who_we_are.md)
   * [Our Goal](pages/about_us/our_goal.md)
   * [Partner Organizations](pages/about_us/partner_orgs.md)
+  ----
 [Volunteer Tools]()
+  * # Wolf-PAC's Tools
   * [Volunteer Toolbox](https://drive.google.com/open?id=1LnTEeJ4TwiMvRh9R8QlFABL9h7hxzBTF9BtQrNJJ-I8)
   * [Bullet Points](https://docs.google.com/document/d/1LnTEeJ4TwiMvRh9R8QlFABL9h7hxzBTF9BtQrNJJ-I8/edit?usp=sharing)
+  ----
   * # External Resources
     * [Issue One's "Right on the Money" blog](https://rightonmoney.tumblr.com)
