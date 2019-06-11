@@ -36,6 +36,8 @@
   
 [Article V Details and Legal Theory]()
 
+  * [The Path to a Convention](pages/article_v/the_path.md)
+  ----
   * Article V and Its History
   * [What does it say, what does it mean?](pages/article_v/history/article_v_explainer.md)
   * [How has Article V been used to amend the Constitution?](pages/article_v/history/article_v_history.md)
@@ -47,5 +49,3 @@
   * The "Runaway Convention"
   * [What is it?](pages/article_v/runaway_convention/what_is_it.md)
   * [How do we know it's not a threat?](pages/article_v/runaway_convention/not_a_threat.md)
-  ----
-  * [The Path to a Convention](pages/article_v/the_path.md)
