@@ -1,13 +1,10 @@
-# Page Heading
+# Wolf-PAC Georgia
 
 
-## Section 1
+## Who We Are
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
+Wolf-PAC is a nonpartisan political action committee. 
 
-
-## Section 2
-
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+* Formed in 2011
+* Mission is to make government accountable to the people. 
+* Add a 28th Amendment to the U.S. Constitution that goes above Congress and the Supreme Court. 
