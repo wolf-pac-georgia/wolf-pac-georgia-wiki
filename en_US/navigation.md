@@ -48,6 +48,20 @@
   * [What is it?](pages/article_v/runaway_convention/what_is_it.md)
   * [How do we know it's not a threat?](pages/article_v/runaway_convention/not_a_threat.md)
   ----
-  * [The path to a Convention](pages/article_v/the_path.md)
+  * [The path to a convention](pages/article_v/the_path.md)
   * [Arguments against a convention and Wolf-PAC's rebuttals](pages/article_v/arguments_and_rebuttals.md)
   * [Full legal reports](pages/article_v/full_reports.md)
+  
+[Georgia General Assembly]()
+
+  * [The legislative process](pages/general_assembly/legislative_process.md)
+  * [Things to be aware of when lobbying](pages/general_assembly/rules_for_lobbying.md)
+  * [Important offices at the Capitol](pages/general_assembly/important_offices.md)
+  ----
+  * House of Representatives
+  * [Important members](pages/general_assembly/house/important_members.md)
+  * [Rules and procedures](pages/general_assembly/house/rules_and_procedures.md)
+  ----
+  * Senate
+  * [Important members](pages/general_assembly/senate/important_members.md)
+  * [Rules and procedures](pages/general_assembly/senate/rules_and_procedures.md)
