@@ -55,6 +55,7 @@
 [Georgia General Assembly]()
 
   * [The legislative process](pages/general_assembly/legislative_process.md)
+  ----
   * House of Representatives
   * [Important members](pages/general_assembly/house/important_members.md)
   * [Rules and procedures](pages/general_assembly/house/rules_and_procedures.md)
