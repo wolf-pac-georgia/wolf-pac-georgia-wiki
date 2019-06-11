@@ -33,3 +33,5 @@
   ----
   * External Resources
   * [Right on the Money](https://rightonmoney.tumblr.com)
+  
+[Article V Convention Details and Legal Theory]()
