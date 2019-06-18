@@ -1,6 +1,6 @@
 # Full legal reports
 
-All of these resources are also available at [wolf-pac.com/resources](https://wolfpac.com/resources).
+All of these resources are also available at [wolf-pac.com/resources](https://wolf-pac.com/resources).
 
 ### Department of Justice (DoJ)
 
