@@ -38,7 +38,7 @@
 
   * Article V and Its History
   * [What does it say, what does it mean?](pages/article_v/history/article_v_explainer.md)
-  * [How has Article V been used to amend the Constitution?](pages/article_v/history/article_v_history.md)
+  * [How has the Constitution been amended in the past?](pages/article_v/history/article_v_history.md)
   - - - -
   * The Logistics of a Convention
   * [How would convention delegates be chosen?](pages/article_v/choosing_delegates.md)
