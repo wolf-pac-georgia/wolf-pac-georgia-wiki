@@ -57,6 +57,8 @@
   * [The legislative process](pages/general_assembly/legislative_process.md)
   * [Things to be aware of when lobbying](pages/general_assembly/rules_for_lobbying.md)
   * [Important offices at the Capitol](pages/general_assembly/important_offices.md)
+  * [Getting to the Capitol](pages/general_assembly/getting_to_the_capitol.md)
+  * [Map of the Capitol]()
   ----
   * House of Representatives
   * [Important members](pages/general_assembly/house/important_members.md)
