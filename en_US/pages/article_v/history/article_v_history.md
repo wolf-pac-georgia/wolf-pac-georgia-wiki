@@ -13,3 +13,6 @@ It's important to know that even as states were prodding Congress with conventio
 [<sup>2</sup>]: https://wolf-pac.com/wp-content/themes/wolf-pac/img/resources/pdf_ABA_Full_Report.pdf
 [<sup>3</sup>]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2269077
 [<sup>4</sup>]: https://wolf-pac.com/wp-content/themes/wolf-pac/img/resources/pdf_CRS_Historical_Perspectives.pdf
+
+### Other Amendments
+While they did not involve the same mass movement as the passage of the 17th Amendment did, the potential for an Article V convention has been a part of other amendments as well. Both the 21st Amendment (the repeal of prohibition) and the 22nd Amendment (presidential term limits) were preceded by states applying for a limited convention on those issues.[<sup>2</sup>]
