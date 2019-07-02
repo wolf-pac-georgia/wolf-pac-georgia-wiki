@@ -1,10 +1,6 @@
 # Wolf-PAC Georgia
 
 
-## Who We Are
+## Our Mission Statement
 
-Wolf-PAC is a nonpartisan political action committee. 
-
-* Formed in 2011
-* Mission is to make government accountable to the people. 
-* Add a 28th Amendment to the U.S. Constitution that goes above Congress and the Supreme Court. 
+There is an emergency in America - corruption and special interests have a stranglehold on Congress. We are Americans, from all walks of life, using the power of our Constitution to fix corruption and restore a government of, by and for the people.
