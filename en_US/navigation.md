@@ -41,8 +41,8 @@
   * [How has the Constitution been amended in the past?](pages/article_v/history/article_v_history.md)
   - - - -
   * The Logistics of a Convention
-  * [How would convention delegates be chosen?](pages/article_v/choosing_delegates.md)
-  * [How would the convention establish its rules?](pages/article_v/establishing_rules.md)
+  * [How would convention delegates be chosen?](pages/article_v/delegates.md)
+  * [How would the convention establish its rules?](pages/article_v/rules.md)
   ----
   * The "Runaway Convention"
   * [What is it?](pages/article_v/runaway_convention/what_is_it.md)
