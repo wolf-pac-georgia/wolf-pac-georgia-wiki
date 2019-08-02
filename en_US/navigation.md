@@ -62,8 +62,8 @@
   ----
   * House of Representatives
   * [Important members](pages/general_assembly/house/important_members.md)
-  * [Rules and procedures](pages/general_assembly/house/rules_and_procedures.md)
+  * [Rules and procedures](http://www.house.ga.gov/Documents/Information/HouseRules2019.pdf)
   ----
   * Senate
   * [Important members](pages/general_assembly/senate/important_members.md)
-  * [Rules and procedures](pages/general_assembly/senate/rules_and_procedures.md)
+  * [Rules and procedures](http://www.senate.ga.gov/sos/Documents/2019SenateRules.pdf)
