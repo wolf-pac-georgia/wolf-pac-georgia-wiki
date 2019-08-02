@@ -1,4 +1,4 @@
-### How would the convention establish its rules?
+# How would the convention establish its rules?
 
 The American Bar Association has recommended that Congress pass legislation resolving broad logistical concerns such as the time and place of a convention, how it would be financed, and any other concerns that do not affect the substance of the convention's work, but rather allow it to achieve its purpose.[<sup>1</sup>]
 
