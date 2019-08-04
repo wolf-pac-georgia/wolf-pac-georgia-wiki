@@ -3,12 +3,36 @@
 #### House of Representatives
 
 ###### Republican Leadership
-* Speaker of the House David Ralston: 332 State Capitol
-* Speaker Pro-Tempore Jan Jones: 340 State Capitol
-* Majority Leader Jon Burns: 338 State Capitol
-* Majority Whip Trey Kelley: 415 State Capitol
-* Majority Caucus Chair Matt Hatchett: 415 State Capitol
-* House Rules Committee Chair Jay Powell: House Mezzanine-1 State Capitol
+* Speaker of the House David Ralston
+
+  ![David Ralston](http://www.house.ga.gov/SiteCollectionImages/ralstonDavid189.jpg)
+  - Capitol phone number: 404.656.5020
+  - Capitol office: 332 State Capitol
+* Speaker Pro-Tempore Jan Jones:
+
+  ![Jan Jones](http://www.house.ga.gov/SiteCollectionImages/jonesJan142.jpg)
+  - Capitol phone number: 404.656.5072
+  - Capitol office: 340 State Capitol
+* Majority Leader Jon Burns:
+
+  ![Jon Burns](http://www.house.ga.gov/SiteCollectionImages/burnsJon73.jpg)
+  - Capitol phone number: 404.656.5052
+  - Capitol office: 338 State Capitol
+* Majority Whip Trey Kelley:
+  
+  ![Trey Kelley](http://www.house.ga.gov/SiteCollectionImages/kelleyTrey825.jpg)
+  - Capitol phone number: 404.656.5024
+  - Capitol office: 415 State Capitol
+* Majority Caucus Chair Matt Hatchett:
+
+  ![Matt Hatchett](http://www.house.ga.gov/SiteCollectionImages/hatchettMatt781.jpg)
+  - Capitol phone number: 404.656.5025
+  - Capitol office: 415 State Capitol
+* House Rules Committee Chair Jay Powell:
+
+  ![Jay Powell](http://www.house.ga.gov/SiteCollectionImages/PowellJay728.jpg)
+  - Capitol phone number: 404.656.5141
+  - Capitol office: House Mezzanine-1 State Capitol
 
 ###### Democratic Leadership
 * Minority Leader Robert Trammell: 609-F Coverdell Legislative Office Building
