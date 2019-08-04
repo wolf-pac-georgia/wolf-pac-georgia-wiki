@@ -55,14 +55,8 @@
 
   * [The legislative process](pages/general_assembly/legislative_process.md)
   * [Things to be aware of when lobbying](pages/general_assembly/rules_for_lobbying.md)
-  * [Important offices at the Capitol](pages/general_assembly/important_offices.md)
+  * [Important legislators](pages/general_assembly/important_members.md)
   * [Getting to the Capitol](pages/general_assembly/getting_to_the_capitol.md)
   * [Map of the Capitol](https://gba.georgia.gov/sites/gba.georgia.gov/files/related_files/document/Capitol%20Hill%20Map%204-25-2017%20Hi%20Res.pdf)
-  ----
-  * House of Representatives
-  * [Important members](pages/general_assembly/house/important_members.md)
-  * [Rules and procedures](http://www.house.ga.gov/Documents/Information/HouseRules2019.pdf)
-  ----
-  * Senate
-  * [Important members](pages/general_assembly/senate/important_members.md)
-  * [Rules and procedures](http://www.senate.ga.gov/sos/Documents/2019SenateRules.pdf)
+  * [House rules and procedures](http://www.house.ga.gov/Documents/Information/HouseRules2019.pdf)
+  * [Senate rules and procedures](http://www.senate.ga.gov/sos/Documents/2019SenateRules.pdf)
