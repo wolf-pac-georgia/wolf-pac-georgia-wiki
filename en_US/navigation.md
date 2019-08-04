@@ -48,7 +48,6 @@
   * [What is it?](pages/article_v/runaway_convention/what_is_it.md)
   * [How do we know it's not a threat?](pages/article_v/runaway_convention/not_a_threat.md)
   ----
-  * [The path to a convention](pages/article_v/the_path.md)
   * [Arguments against a convention and Wolf-PAC's rebuttals](pages/article_v/arguments_and_rebuttals.md)
   * [Full legal reports](pages/article_v/full_reports.md)
   
