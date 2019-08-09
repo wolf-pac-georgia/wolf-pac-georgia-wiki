@@ -18,12 +18,6 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-
-[About Wolf-PAC GA]()
-
-  * [Who We Are](pages/about_us/who_we_are.md)
-  * [Our Goal](pages/about_us/our_goal.md)
-  * [Partner Organizations](pages/about_us/partner_orgs.md)
   
 [Volunteer Tools]()
 
@@ -45,18 +39,22 @@
   * [How would the convention establish its rules?](pages/article_v/logistics/rules.md)
   ----
   * The "Runaway Convention"
-  * [What is it?](pages/article_v/runaway_convention/what_is_it.md)
-  * [How do we know it's not a threat?](pages/article_v/runaway_convention/not_a_threat.md)
+  * [What is a "runaway convention," and why is it not a real thing?](pages/article_v/runaway_convention/what_is_it.md)
+  * [What are the constitutional checks on an Article V convention?](pages/article_v/runaway_convention/constitutional_checks.md)
   ----
   * [Arguments against a convention and Wolf-PAC's rebuttals](pages/article_v/arguments_and_rebuttals.md)
   * [Full legal reports](pages/article_v/full_reports.md)
   
 [Georgia General Assembly]()
 
-  * [The legislative process](pages/general_assembly/legislative_process.md)
-  * [Things to be aware of when lobbying](pages/general_assembly/rules_for_lobbying.md)
-  * [Important legislators](pages/general_assembly/important_members.md)
+  * The Capitol
   * [Getting to the Capitol](pages/general_assembly/getting_to_the_capitol.md)
   * [Map of the Capitol](https://gba.georgia.gov/sites/gba.georgia.gov/files/related_files/document/Capitol%20Hill%20Map%204-25-2017%20Hi%20Res.pdf)
+  ----
+  * The Legislature
+  * [Important legislators](pages/general_assembly/important_members.md)
+  * [The legislative process](pages/general_assembly/legislative_process.md)
   * [House rules and procedures](http://www.house.ga.gov/Documents/Information/HouseRules2019.pdf)
   * [Senate rules and procedures](http://www.senate.ga.gov/sos/Documents/2019SenateRules.pdf)
+  ----
+  * [Things to be aware of when lobbying](pages/general_assembly/rules_for_lobbying.md)
