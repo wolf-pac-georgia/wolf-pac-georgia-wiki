@@ -42,7 +42,6 @@
   * [What is a "runaway convention," and why is it not a real thing?](pages/article_v/runaway_convention/what_is_it.md)
   * [What are the constitutional checks on an Article V convention?](pages/article_v/runaway_convention/constitutional_checks.md)
   ----
-  * [Arguments against a convention and Wolf-PAC's rebuttals](pages/article_v/arguments_and_rebuttals.md)
   * [Full legal reports](pages/article_v/full_reports.md)
   
 [Georgia General Assembly]()
