@@ -39,7 +39,7 @@
   * [How would the convention establish its rules?](pages/article_v/logistics/rules.md)
   ----
   * The "Runaway Convention"
-  * [What is a "runaway convention," and why is it not a real thing?](pages/article_v/runaway_convention/what_is_it.md)
+  * [The "Runaway Convention": Myth vs. Fact](pages/article_v/runaway_convention/what_is_it.md)
   * [What are the constitutional checks on an Article V convention?](pages/article_v/runaway_convention/constitutional_checks.md)
   ----
   * [Full legal reports](pages/article_v/full_reports.md)
