@@ -42,7 +42,7 @@
   * [The "Runaway Convention": Myth vs. Fact](pages/article_v/runaway_convention/what_is_it.md)
   * [What are the constitutional checks on an Article V convention?](pages/article_v/runaway_convention/constitutional_checks.md)
   ----
-  * [Full legal reports](pages/article_v/full_reports.md)
+  * [Full legal reports](http://www.wolf-pac.com/resources)
   
 [Georgia General Assembly]()
 
