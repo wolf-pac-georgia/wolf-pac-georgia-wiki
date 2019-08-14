@@ -57,3 +57,5 @@
   * [Senate rules and procedures](http://www.senate.ga.gov/sos/Documents/2019SenateRules.pdf)
   ----
   * [Things to be aware of when lobbying](pages/general_assembly/rules_for_lobbying.md)
+  
+[Practice]()
