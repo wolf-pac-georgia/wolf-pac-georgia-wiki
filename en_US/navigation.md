@@ -60,4 +60,6 @@
   
 [Practice]()
 
-* [Katie Schumack](pages/practice/katie.md)
+  * [Natalie](pages/Practice/natalie.md)
+  * [Katie Schumack](pages/practice/katie.md)
+>>>>>>> dd67da17cd5d8909cbcb55991f99b4b18b90a21b
