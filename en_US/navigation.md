@@ -59,3 +59,5 @@
   * [Things to be aware of when lobbying](pages/general_assembly/rules_for_lobbying.md)
   
 [Practice]()
+
+* [Katie Schumack](pages/practice/katie.md)
