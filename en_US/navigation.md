@@ -57,9 +57,3 @@
   * [Senate rules and procedures](http://www.senate.ga.gov/sos/Documents/2019SenateRules.pdf)
   ----
   * [Things to be aware of when lobbying](pages/general_assembly/rules_for_lobbying.md)
-  
-[Practice]()
-
-  * [Natalie](pages/Practice/natalie.md)
-  * [Katie Schumack](pages/practice/katie.md)
->>>>>>> dd67da17cd5d8909cbcb55991f99b4b18b90a21b
