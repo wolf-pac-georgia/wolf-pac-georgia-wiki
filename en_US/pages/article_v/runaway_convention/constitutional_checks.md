@@ -2,19 +2,42 @@
 
 An Article V convention, just like every other aspect of our government under the Constitution, would be subject to multiple checks and balances. While everyone responsible for implementing these checks would likely do their jobs, the beauty of our system is that even if one set of checks fail, becasue multiple branches of government at the federal and state levels have their own way to check a convention, all of the safeguards are not going to fail at the same time. Checks on an Article V convention could originate from four different places.
 
-## 1. The states
+## 1. The states: 3/4ths of the states must ratify an amendment, and states can place limitations on the powers of their respective delegates
 The most powerful check on an Article V convention is the extremely high ratification requirement set forth in the Constitution. Article V requires that 3/4ths – currently 38 – of the states vote to ratify any proposed amendment to the Constitution, regardless of whether Congress or a convention proposes it. If the states feel a convention exceeded its authority, all they have to do is vote down – or simply refuse to vote on – any amendments the convention proposes.
 
 Additionally, the states can control the way their individual delegates vote throughout the duration of the convention. Some states such as Georgia have passes laws specifically detailing the discretion, or lack thereof, that their delegates have, and make it a criminal penalty for their delegates to violate those limitations.
 
-## 2. The Congress
+---
+
+## 2. The Congress: Congress can pass legislation allowing it to refuse to designate a mode of ratification for proposed amendments that do not comply with the convention's mandate
 Although the convention method does not allow Congress to interfere with the substance of a lawful convention, Congress does have a role to play in ensuring a convention stays on topic. Most legal analyses have concluded that Congress has the authority under the Necessary and Proper Clause of the Constitution to pass legislation governing the procedure of convening a convention. One proposed bill, S. 1272 in the 93rd session of Congress in 1973, proposed a mechanism whereby if a convention called under Article V proposed amendments outside the scope of the mandate it was covened under, Congress could vote not to forward the proposed amendments to the states for ratification. __The American Bar Association has endorsed such a "same-subject" test as within Congress's constitutional authority.__
 
-## 3. The courts
+---
 
+## 3. The courts: The courts can issue relief for complaints concerning procedural issues arising under Article V
+If there is a dispute between any of the states, Congress, and/or the convention and its delegates about how one of them acted, any of these institutions would have standing to challenge the actions of any of the others in federal court. The courts would then be empowered to mediate this dispute just as they do in other areas of constitutional uncertainty, by providing relief, whether declaratory (clarifying who is right) and/or injunctive (ordering one party or the other to take action).
 
-## 4. The delegates
+Some academics and advocates have argued in good faith that issues surrounding constitutional amendments and Article V as a whole are nonjusticiable, meaning courts cannot make decisions about disputes involving them. This stems from a single 1939 Supreme Court case, *Coleman v. Miller*, and more specifically a concurring opinion that is not binding precedent for the court. The *Coleman* decision related to the lieutenant governor of Kansas breaking a tie in the state senate on the ratification of the Child Labor Amendment proposed by Congress. The court issued a narrow opinion saying that while the senators opposed to the amendment had standing to sue, the issue of the lieutenant governor's vote's validity was a "political question" for Congress to decide.[<sup>1</sup>] Four justices wrote a concurring opinion suggesting that all questions surrounding Article V were political, nonjusticiable questions, but this opinion __is not binding case law because it only commanded a plurality of justices.__ The bulk of Supreme Court precedent suggests that questions under Article V are justiciable. This case law generally falls into two categories:
 
+#### 1. Prior cases adjudicating Article V questions
+The Supreme Court has a limited but clear history of addressing substantial issues that arose from the constitutional amendment process. In fact, one of the earliest cases the Supreme Court ever decided, *Hollingsworth v. Virginia* (1798), determined that the president's signature is not required for Congress to propose an amendment, with the Court making a clear procedural determination about the Article V amendment process without ever implying it lacked the ability to adjudicate the case.[<sup>2</sup>] Later, in *National Prohibition Cases* (1920), the Supreme Court determined that only 2/3rds of a quorum of both the House and the Senate, as oppossed to 2/3rds of the total members of both houses, are required to propose a constitutional amendment.[<sup>3</sup>] This is a clear example of the Supreme Court using context and other factors external to plain text of the Constitution to nonetheless reach a determination on Article V issues and implicitly affirming the justiciability of such complaints. The court took a similar action in *Dillion v. Gloss* (1921) when it affirmed Congress's ability to set a reasonable time limit for the ratification by the states of a proposed amendment.[<sup>3</sup>] In *United States v. Sprague* (1931), the Supreme Court also implicitly affirmed that the judiciary has clear authority in cases involving Article V when it decided that the 18th Amendment (the Prohibition Amendment) had been validly ratified by the legislatures of 3/4ths of the states, never deffering to Congress on this question in the way that *Coleman* suggests the courts must.[<sup>4</sup>] __*Coleman* is a narrow decision that should not be read to overrule the precedent set by prior cases concerning Article V.__
+
+#### 2. Weakening of the "political question" doctrine since *Coleman*
+Furthermore, the Supreme Court appears to have weakened the political question doctrine significantly since *Coleman*. In *Baker v. Carr*, the Court intervened to require legislative redistricting in Tennessee comply with the "one-person, one vote" standard so that every person's vote had equal weight, despite the fact that redistricting is typically left to the political branches of government.[<sup>6</sup>] Furthermore, in *Powell v. McCormack*, the court ruled that the U.S. House of Representatives could not refuse to seat Representative Adam Clayton Powell because that was outside of their powers to expel members under Article I Section 5 of the Constitution.[<sup>7</sup>] __Clearly, the Supreme Court has shown itself more willing to adjudicate questions involving the political branches of federal and state government since *Coleman*, and would have the authority to address complaints arising from an Article V convention.__
+
+---
+
+## 4. The delegates: The diversity of the opinions of delegates will prevent any radical faction of from hijacking the convention and causing it to "run away" from its mandate
+The delegates to an Article V convention will be elected either by the people or chose by the state legislatures from all 50 states, representing many different backgrounds and bringing with them a diverse set of perspectives. The likelihood that a radical faction of delegates representing a slim portion of the American people could derail a convention and divert it from the mandate it was convened under is significantly slim in the first place. The same norms and dynamics that James Madison in *Federalist No. 10*[<sup>8</sup>] said would prevent one faction from dominating the U.S. government would also function as a check on a radical faction of delegates creating a runaway convention.
 
 ----
-The information in this section is largely drawn from [this](https://wolf-pac.com/wp-content/themes/wolf-pac/img/resources/pdf_DOJ_Limited_Conventions.pdf) report by the Department of Justice's Office of Legal Policy, as well as [this](https://wolf-pac.com/wp-content/themes/wolf-pac/img/resources/pdf_ABA_Full_Report.pdf) report from the American Bar Association.
+The information in this section is largely drawn from [this report by the Department of Justice's Office of Legal Policy](https://wolf-pac.com/wp-content/themes/wolf-pac/img/resources/pdf_DOJ_Limited_Conventions.pdf), as well as [this report from the American Bar Association](https://wolf-pac.com/wp-content/themes/wolf-pac/img/resources/pdf_ABA_Full_Report.pdf).
+
+[<sup>1</sup>]:https://www.oyez.org/cases/1900-1940/307us433
+[<sup>2</sup>]:https://www.law.cornell.edu/supremecourt/text/3/378
+[<sup>3</sup>]:https://supreme.justia.com/cases/federal/us/253/350/
+[<sup>4</sup>]:https://supreme.justia.com/cases/federal/us/256/368/
+[<sup>5</sup>]:https://supreme.justia.com/cases/federal/us/282/716/
+[<sup>6</sup>]:https://www.oyez.org/cases/1960/6
+[<sup>7</sup>]:https://www.oyez.org/cases/1968/138
+[<sup>8</sup>]:https://avalon.law.yale.edu/18th_century/fed10.asp

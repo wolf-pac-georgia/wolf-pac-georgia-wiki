@@ -23,7 +23,7 @@
 
   * Wolf-PAC's Tools
   * [Volunteer Toolbox](https://drive.google.com/open?id=1LnTEeJ4TwiMvRh9R8QlFABL9h7hxzBTF9BtQrNJJ-I8)
-  * [Bullet Points](https://docs.google.com/document/d/1LnTEeJ4TwiMvRh9R8QlFABL9h7hxzBTF9BtQrNJJ-I8/edit?usp=sharing)
+  * [Bullet Points](https://docs.google.com/document/d/1_rtO19oNh4up1U6B4ZNB1mZBQXxwejKC2oBG-CvKa_w/edit?usp=sharing)
   ----
   * External Resources
   * [Quotes supporting campaign finance reform (published by Issue One)](https://rightonmoney.tumblr.com)
