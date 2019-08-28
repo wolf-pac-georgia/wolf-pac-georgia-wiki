@@ -1,0 +1,10 @@
+# What states have already applied for an Article V convention, and on what topic(s)?
+
+The number of existing Article V conventions applications is an area of some dispute, as Congress failed to keep track of convention applications until 2015, when Representative Steve Stivers proposed a change to the House rules. The current 116th Congress has kept this rule in place as Section 103 (b) of the Rules of the House of Representatives.[<sup>1</sup>] While other non-governmental organizations that track Article V convention applications suggest that the number of active applications is higher than the House clerk's count, Congress is the body tasked by Article V with calling a convention, so its count is the most authoritative one.
+
+The House clerk's count of active Article V conventions, along with recissions of previous applications, can be found [here](http://clerk.house.gov/legislative/memorials.aspx). It is important to note that Georgia has called for an Article V convention on two separate topics in recent history, both in 2014: a [convention for a Balanced Budget Amendment (BBA)](http://clerk.house.gov/legislative/memorial-pdfs/2014/Memorial-201402-GA.pdf) that would impose fiscal restraints on the federal government, and the [Convention of States convention](http://clerk.house.gov/legislative/memorial-pdfs/2014/Memorial-201401-GA.pdf), which is a multi-topic convention including the BBA, limiting the power of the federal government, and imposing term limits on Congress.
+
+The House clerk's list also demonstrates that proponents of a mandatory general convention, where states çan only call for a convention that is open to any subject, are incorrect, as the House currently counts more than 70 applications from over 38 states, which is far more than the 2/3rds requirement for a convention. If a limited convention were impossible, one clearly would have been called already. This issue is discussed in more detail in ["The 'Runaway Convention': Myth vs. Fact."](/en_US/index.html#!pages/article_v/runaway_convention/what_is_it.md)
+
+
+[<sup>1</sup>]:https://docs.house.gov/billsthisweek/20181231/BILLS-116hresPIH-hres6.pdf

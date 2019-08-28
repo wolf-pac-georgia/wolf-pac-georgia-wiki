@@ -23,7 +23,7 @@
 
   * Wolf-PAC's Tools
   * [Volunteer Toolbox](https://drive.google.com/open?id=1LnTEeJ4TwiMvRh9R8QlFABL9h7hxzBTF9BtQrNJJ-I8)
-  * [Bullet Points](https://docs.google.com/document/d/1_rtO19oNh4up1U6B4ZNB1mZBQXxwejKC2oBG-CvKa_w/edit?usp=sharing)
+  * [Bullet Points](https://docs.google.com/document/d/1c6gITiSLoMagOAT5fL_bH4o5-sPnxLna2aqWpHnhbiA/edit?usp=sharing)
   ----
   * External Resources
   * [Quotes supporting campaign finance reform (published by Issue One)](https://rightonmoney.tumblr.com)
@@ -33,6 +33,7 @@
   * Article V and Its History
   * [What does it say, what does it mean?](pages/article_v/history/article_v_explainer.md)
   * [How has the Constitution been amended in the past?](pages/article_v/history/article_v_history.md)
+  * [What states have already applied for an Article V convention, and on what topic(s)?](pages/article_v/history/existing_applications.md)
   - - - -
   * The Logistics of a Convention
   * [How would convention delegates be chosen, and how would they be controlled?](pages/article_v/logistics/delegates.md)
