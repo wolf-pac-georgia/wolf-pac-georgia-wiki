@@ -9,13 +9,15 @@ The push for an Article V convention to allow the American people to directly el
 
 It's important to know that even as states were prodding Congress with convention applications, they were also using every other tool they had to support the direct election of senators. 28 states adopted what was known as the "Oregon System" or "Oregon Plan," where the state would hold informal primaries to allow citizens to vote for their senators, and bind state representatives to those votes.[<sup>3</sup>] Even as they pushed for lasting constitutional change, states used their existing options to enhance their democratic processes.
 
+
+### The Bill of Rights
+Although not as prominent as with the 17th Amendment, the Bill of Rights also involved a significant Article V convention immediately after our nation's founding. After the Constitution was proposed and while states were debating its ratification, there were two loose political coalitions that formed in the country: the Federalists and the Anti-Federalists. The Federalists supported ratifying the Constitution, while the Anti-Federalists believed it did not protect sufficiently civil liberties, and thus needed a Bill of Rights if the states were to ratify it. The legislatures of Virginia[<sup>5</sup>] and New York both believe that another convention was the best way to resolve this issue, and passed resolutions calling for a general Article V convention.[<sup>2</sup>] Given that there were only 13 states in the Union at the time, this put significant pressure on Congress to propose the Bill of Rights in 1789, which the states ultimately ratified, to appease the Anti-Federalists and prevent a second convention.
+
+### Other Amendments
+While they did not involve the same mass movement as the passage of the 17th Amendment did, the potential for an Article V convention has been a part of other amendments as well. Both the 21st Amendment (the repeal of prohibition) and the 22nd Amendment (presidential term limits) were preceded by states applying for a limited convention on those issues.[<sup>2</sup>]
+
 [<sup>1</sup>]: https://www.archives.gov/legislative/features/17th-amendment
 [<sup>2</sup>]: https://wolf-pac.com/wp-content/themes/wolf-pac/img/resources/pdf_ABA_Full_Report.pdf
 [<sup>3</sup>]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2269077
 [<sup>4</sup>]: https://wolf-pac.com/wp-content/themes/wolf-pac/img/resources/pdf_CRS_Historical_Perspectives.pdf
-
-### The Bill of Rights
-Although not as prominent as with the 17th Amendment, the Bill of Rights also involved a significant Article V convention immediately after our nation's founding. After the Constitution was proposed and while states were debating its ratification, there were two loose political coalitions that formed in the country: the Federalists and the Anti-Federalists. The Federalists supported ratifying the Constitution, while the Anti-Federalists believed it did not protect sufficiently civil liberties, and thus needed a Bill of Rights if the states were to ratify it. The legislatures of Virginia and New York both believe that another convention was the best way to resolve this issue, and passed resolutions calling for a general Article V convention.[<sup>2</sup>] Given that there were only 13 states in the Union at the time, this put significant pressure on Congress to propose the Bill of Rights in 1789, which the states ultimately ratified, to appease the Anti-Federalists and prevent a second convention.
-
-### Other Amendments
-While they did not involve the same mass movement as the passage of the 17th Amendment did, the potential for an Article V convention has been a part of other amendments as well. Both the 21st Amendment (the repeal of prohibition) and the 22nd Amendment (presidential term limits) were preceded by states applying for a limited convention on those issues.[<sup>2</sup>]
+[<sup>5</sup>]: http://memory.loc.gov/cgi-bin/ampage?collId=llac&fileName=001/llac001.db&recNum=130
